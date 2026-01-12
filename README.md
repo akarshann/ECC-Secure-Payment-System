@@ -18,8 +18,8 @@ A robust cryptographic payment platform implementing Elliptic Curve Cryptography
 
 ## 📜 Abstract
 
-The **ECC Secure Payment System** is an advanced digital payment platform that leverages the mathematical elegance and cryptographic strength of Elliptic Curve Cryptography (ECC). This system addresses the critical security challenges in modern electronic commerce by providing superior encryption with reduced computational overhead compared to traditional RSA-based systems. The project demonstrates the practical implementation of ECC algorithms in securing financial transactions, digital signatures, and user authentication protocols.
-https://rishigupta2004-ecc-secure-payment-system-frontend-yh6bpz.streamlit.app/
+The **ECC Secure Payment System** is an advanced digital payment platform that leverages the mathematical elegance and cryptographic strength of Elliptic Curve Cryptography (ECC). This system addresses the critical security challenges in modern electronic commerce by providing superior encryption with reduced computational overhead compared to traditional RSA-based systems. The project demonstrates the practical implementation of ECC algorithms in securing financial transactions, digital signatures, and user authentication protocols. https://rishigupta2004-ecc-secure-payment-system-frontend-yh6bpz.streamlit.app/
+
 ---
 
 ## ✨ Core Features
